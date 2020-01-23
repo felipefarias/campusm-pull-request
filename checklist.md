@@ -1,4 +1,4 @@
-[![alt text](https://knowledge.exlibrisgroup.com/@api/deki/files/57003/mindtouch.page%2523thumbnail?revision=1 "Vinta Logo")](https://www.exlibrisgroup.com/products/campusm-mobile-campus-app-platform/)
+[![alt text](/pr.png "Vinta Logo")](https://www.exlibrisgroup.com/products/campusm-mobile-campus-app-platform/)
 
 ## 1. Pull request workflow
   * [ ] Read thoroughly the feature description to check if everything is implemented.
