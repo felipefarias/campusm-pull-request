@@ -1,4 +1,4 @@
-[![alt text](/pr.png "Vinta Logo")](https://www.exlibrisgroup.com/products/campusm-mobile-campus-app-platform/)
+[![alt text](/PR.png "Vinta Logo")](https://www.exlibrisgroup.com/products/campusm-mobile-campus-app-platform/)
 
 ## 1. Pull request workflow
   * [ ] Read thoroughly the feature description to check if everything is implemented.
